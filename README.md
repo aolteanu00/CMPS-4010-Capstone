@@ -1,2 +1,2 @@
 # CMPS4010-Capstone
-Repository for senior CS thesis @ Tulane: Predicting volatility using HRT data. 
+Repository for senior CS thesis @ Tulane: Predicting volatility using HFT data. 
